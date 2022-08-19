@@ -1,0 +1,9 @@
+1. python3 --version
+2. virtualenv --version
+3. virtualenv -p python3 .
+4. source bin/activate
+5. pip install django
+6. deactivate
+7. django-admin startproject projectName .
+8. python manage.py startapp appName
+9. python manage.py runserver
